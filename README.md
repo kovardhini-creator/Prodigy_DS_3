@@ -69,7 +69,7 @@ The project outputs:
 
 
 
-💻 How to Run
+# How to Run
 
 1. Open the .ipynb file in Google Colab or Jupyter Notebook.
 
