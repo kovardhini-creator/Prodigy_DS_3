@@ -87,9 +87,11 @@ For full-scale implementation, consider using the real 🔗 Bank Marketing Datas
 
 
 
+
+
 👩‍💻 Author
 
 A. Kovardhini
 B.Sc. Computer Science with Artificial Intelligence
-🎓 SJNB Vaishnav College
+🎓 SDNB Vaishnav College
 📧 a.kovardhini1410@gmail.com
