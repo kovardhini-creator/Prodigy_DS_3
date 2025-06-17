@@ -6,7 +6,7 @@
 
 # Objective
 
--- This project builds a Decision Tree Classifier to predict whether a customer will purchase a product or service based on demographic and behavioral attributes like age, job, marital status, and more.
+This project builds a Decision Tree Classifier to predict whether a customer will purchase a product or service based on demographic and behavioral attributes like age, job, marital status, and more.
 
 # Overview
 
